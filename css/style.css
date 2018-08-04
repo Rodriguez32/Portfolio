@@ -1,0 +1,23 @@
+
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif; */
+
+body {
+    
+    font-family: 'Oswald', sans-serif;
+} 
+
+.container {
+  margin: 38px;
+  padding: 30px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.card container{
+  padding: 30px;
+}
+
+#mainCard{
+  margin: 30px;
+  width: 50%;
+}
