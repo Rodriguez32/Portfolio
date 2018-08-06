@@ -4,7 +4,7 @@ font-family: 'Raleway', sans-serif; */
 
 body {
     background-image: url(../images/);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "roboto", sans-serif;
 } 
 
 .container {
@@ -14,7 +14,7 @@ body {
 }
 
 .card container{
-  background-image: url(../images/4.jpg); 
+ 
   padding: 30px;
 }
 
@@ -22,3 +22,10 @@ body {
   margin: 30px;
   width: 50%;
 }
+
+.page-footer{
+  font-family: "roboto", "sans-serif";
+  line-height: 2;
+
+}
+
