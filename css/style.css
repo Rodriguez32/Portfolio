@@ -3,7 +3,8 @@
 font-family: 'Raleway', sans-serif; */
 
 body {
-    background-image: url(../images/);
+    
+   
     font-family: "roboto", sans-serif;
 } 
 
@@ -12,6 +13,14 @@ body {
   padding: 30px;
   /* font-family: 'Raleway', sans-serif; */
 }
+
+/* .parallax-container {
+  min-height: 200px;
+  line-height: 0;
+  height: auto;
+  background-image: url(../images/claude.jpg);
+  background: cover;
+} */
 
 .card container{
  
