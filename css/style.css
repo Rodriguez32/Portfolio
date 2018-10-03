@@ -3,12 +3,21 @@
 
 body {
     font-family: 'Oswald', sans-serif;
-font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
    
-    /* font-family: "roboto", sans-serif; */
+    
 } 
 
-.container {
+.nav-extended {
+  padding: 30px;
+}
+
+.socialmedia{
+  margin: 20px 30px 20px 15px
+  
+  }
+
+.parallax container {
   margin: 38px;
   padding: 30px;
   font-family: 'Raleway', sans-serif;
@@ -18,6 +27,7 @@ font-family: 'Raleway', sans-serif;
   margin: 30px;
   padding: 40px;
 }
+
 
 .card container{
  
@@ -30,9 +40,9 @@ font-family: 'Raleway', sans-serif;
 }
 
 .page-footer{
-  font-family: "roboto", "sans-serif";
-  line-height: 2;
   
+  line-height: 2;
+  font-size: 20px;
   padding: 30px;
 }
 
