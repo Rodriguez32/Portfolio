@@ -10,6 +10,8 @@ body {
 
 .nav-extended {
   padding: 30px;
+  font-family: 'Lobster', cursive;
+
 }
 
 .socialmedia{
@@ -30,8 +32,9 @@ body {
 
 
 .card container{
-  margin: 38px;
-  padding: 30px;
+  margin: 50px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 #mainCard{
@@ -39,6 +42,22 @@ body {
   width: 50%;
 }
 
+.projects{
+  
+  padding: 30px;
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+}
+
+.aboutme {
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+}
+
+.contact{
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+}
 .page-footer{
   
   line-height: 2;
